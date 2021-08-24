@@ -13,4 +13,7 @@ Truffle is a world-class development environment, testing framework and asset pi
 Ganache CLI is the latest version of TestRPC: a fast and customizable blockchain emulator. It allows you to make calls to the blockchain without the overheads of running an actual Ethereum node.
 
 # Mocha
-You can write Ethereum contract unit tests relatively easily with Mocha, a generic JavaScript testing framework. You can install Mocha quickly with npm , the Node. js package manager. You can describe Mocha unit test packages and groups using describe() and individual tests using it() .
+You can write Ethereum contract unit tests relatively easily with Mocha, a generic JavaScript testing framework. You can install Mocha quickly with npm , the Node. js package manager. You can describe Mocha unit test packages and groups using describe() and individual tests using it().
+
+# web3.JS
+web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection. The web3 JavaScript library interacts with the Ethereum blockchain. It can retrieve user accounts, send transactions, interact with smart contracts, and more.
